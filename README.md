@@ -98,7 +98,7 @@ Se você encontrar algum problema ou tiver sugestões para melhorar este projeto
 
 ## Licença
 
-Este projeto está sob a licença isc.
+Este projeto está sob a licença ISC.
 
 ---
 
