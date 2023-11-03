@@ -1,5 +1,7 @@
 # Todo App com Next.js, Prisma, Tailwind CSS e SWR
 
+![nextjs-todoapp](https://github.com/Snarloff/todoapp-nextjs/assets/46792575/8b7ad3f9-355e-42fa-9dd2-7f4dda584a28)
+
 Este é um projeto de aplicação de lista de tarefas (Todo App) desenvolvido com Next.js. A aplicação possui uma API no Next.js que salva as tarefas em um banco de dados MySQL por meio do Prisma ORM. A estilização é feita com Tailwind CSS, e as requisições são gerenciadas com o SWR.
 
 ## Visão Geral
